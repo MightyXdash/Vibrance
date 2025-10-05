@@ -1,5 +1,24 @@
 # Vibrance
-vibrance is an opensource color grading software. I have made sure the software is very easy to use and has no bloat.
 
-if you are new on GitHub or doen't know how to download-locate the "release(s)" and then press on it and you will find the latest version tagged as latest.
-then scroll down to assets and download the .exe file and install it. boom . now you have VIbrance running on your computer.
+Vibrance is an open-source, lightweight color-grading software designed with simplicity in mind. The goal is to make powerful photo adjustments accessible without the usual clutter or bloat.
+
+**Features:**
+
+Clean, beginner-friendly interface
+
+Fast, lightweight, and portable build
+
+100% free and open source
+
+**Installation**
+
+Go to the Releases
+ section of this repository.
+
+Look for the version marked Latest.
+
+Scroll down to the Assets section and download the .exe file which says "VIbrance Installer".
+
+Run the installer, follow the prompts, and you’re ready to go.
+
+That’s it — you now have Vibrance running on your computer.
